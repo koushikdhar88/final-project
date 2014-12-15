@@ -89,20 +89,6 @@ textarea {
     padding: 0.2em 0;
 }
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -281,9 +267,11 @@ textarea {
 
 /* example styles for validation form demo */
 #register-form {
-    background: url("form-fieldset.gif") repeat-x scroll left bottom #F8FDEF;
+    background: url("form-fieldset.gif") repeat-x scroll left bottom #FFEB0E;
     border: 1px solid #DFDCDC;
-    border-radius: 15px 15px 15px 15px;
+    border-radius: 20px 20px 20px 20px;
+    text-style: Serif;
+    text-alignment: center;
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
